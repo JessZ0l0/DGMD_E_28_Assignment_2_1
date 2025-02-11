@@ -22,3 +22,7 @@ This is a simple **Tic Tac Toe** game implemented using **HTML and CSS**. The ga
 - Implement **win conditions** and a way to detect when the game ends.
 - **Restart Button (Commented Out)**: A button is planned for restarting the game but is currently commented out. 
 - Enable the **restart button** to clear the board and start a new game.
+
+## Answer to question:  Identify an area of CSS code you feel really good about – and indicate why.
+- I feel most confident in my ability to research can implement CSS styling solutions to achieve the desired appearance for an element. Through extensive practical trial and error, I have developed a proficient understanding of CSS properties such as flexbox, grid, and animations. While I recognize there is always room for improvement, I genuinely enjoy the design process and refining styles to create intuitive and aesthetically pleasing web interfaces. 
+
